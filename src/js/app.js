@@ -20,6 +20,8 @@ import "../style/index.css";
         role: null,
         country: null,
         city: null
+
+        This is a test, to check if remote is set correctly
     }
  */
 function render(variables = {}) {
